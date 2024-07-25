@@ -1,0 +1,1 @@
+Hi i am amit singh rawat and a self learner , these are the basic projects on python
